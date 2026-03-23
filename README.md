@@ -5,7 +5,7 @@ I am a 3rd-year Computer Science and Artificial Engineering student passionate a
 When I'm not studying compiler design or automata theory, I am actively solving algorithmic problems and contributing to open-source AI projects.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, C++, C
+* **Languages:** Python, C++, C,java,html,css,javascript
 * **Core Focus:** Data Structures & Algorithms, Natural Language Processing (NLP), Machine Learning
 * **Systems:** Git, Local AI Deployment & Troubleshooting
 
