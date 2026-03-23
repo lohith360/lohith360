@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Lohit 👋
 
-<!--
-**lohith360/lohith360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Computer Science and Artificial Engineering student passionate about pushing the boundaries of machine learning. My long-term roadmap is focused on contributing to Artificial General Intelligence (AGI) research and publishing high-impact academic work.
 
-Here are some ideas to get you started:
+When I'm not studying compiler design or automata theory, I am actively solving algorithmic problems and contributing to open-source AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C++, C
+* **Core Focus:** Data Structures & Algorithms, Natural Language Processing (NLP), Machine Learning
+* **Systems:** Git, Local AI Deployment & Troubleshooting
+
+### 🌱 Currently Learning
+* Expanding my deep learning toolkit with **PyTorch** and **scikit-learn**.
+* Exploring advanced system architectures and network protocols (TCP/IP).
+
+### 🚀 What I'm Looking For
+* **Open Source:** Actively seeking out bug bounties and foundational issues in AI frameworks.
+* **Opportunities:** Remote internships and research assistantships in GenAI, MLOps, or core software engineering.
+
+📫 **Let's connect:** [lohith.peddada@gmail.com(insta:lohith360)]
